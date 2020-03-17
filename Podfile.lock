@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BTNavigationDropdownMenu (0.5)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - YoutubePlayer-in-WKWebView (0.3.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - BTNavigationDropdownMenu
+  - SDWebImage
+  - YoutubePlayer-in-WKWebView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BTNavigationDropdownMenu
+    - SDWebImage
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  YoutubePlayer-in-WKWebView: af2f5929fc78882d94bfdfeea999b661b78d9717
+
+PODFILE CHECKSUM: 6b3a8e227aa90ca17dd8c9fd9cd13053e6f5e235
+
+COCOAPODS: 1.9.1
